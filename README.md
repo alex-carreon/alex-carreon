@@ -1,8 +1,4 @@
-## I'm Alex, and I'm currently...
-- 🌊 Working on my capstone project to help people not get their shoes wet
-- 🎓 In my final year of college
-- 💼 Looking for an internship
-
+## About Me
 I’m an Information Systems student who enjoys solving problems more than just writing code. Right now, I'm particularly interested in:
 - Testing Automation
 - Networking & Infrastructure
