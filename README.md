@@ -8,6 +8,7 @@ I’m an Information Systems student who enjoys solving problems more than just 
 - Networking & Infrastructure
 - Security
 
+<br/>
 
 ## When I'm offline, I'm probably...
 - 📷 Restoring (or breaking) and shooting film cameras
@@ -18,6 +19,7 @@ I’m an Information Systems student who enjoys solving problems more than just 
 - 🔧 Fixing stuff for other people (tech-related or not)
 - 🛠️ Generally tinkering with anything I can get my hands on
 
+<br/>
 
 ## I can roll with the following:
 
