@@ -1,7 +1,7 @@
 ## About Me
-I’m an Information Systems student who enjoys solving problems more than just writing code. Right now, I'm particularly interested in:
-- Testing Automation
-- Networking & Infrastructure
+I’m an Information Systems student who enjoys solving problems more than just writing code. Right now, I'm currently exploring:
+- Networking & Infrastructure (Homelabbing !)
+- Embedded Systems
 - Security
 
 <br/>
