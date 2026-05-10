@@ -4,18 +4,9 @@ I’m an Information Systems student who enjoys solving problems more than just 
 - Embedded Systems
 - Security
 
-<br/>
-
-## When I'm offline, I'm probably...
-- 📷 Restoring (or breaking) and shooting film cameras
-- 🗺️ Exploring new places, wandering around, and checking out art markets
-- ✍️ Writing (science, sports, or anything interesting)
-- 📖 Burying my face in a book
-- 🎬 In the cinema watching a movie
-- 🔧 Fixing stuff for other people (tech-related or not)
-- 🛠️ Generally tinkering with anything I can get my hands on
 
 <br/>
+
 
 ## I can roll with the following:
 
@@ -30,3 +21,16 @@ I’m an Information Systems student who enjoys solving problems more than just 
 
 ### 📊 Database
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
+<br/>
+
+
+## When I'm offline, I'm probably...
+- 📷 Restoring (or breaking) and shooting film cameras
+- 🗺️ Exploring new places, wandering around, and checking out art markets
+- ✍️ Writing (science, sports, or anything interesting)
+- 📖 Burying my face in a book
+- 🎬 In the cinema watching a movie
+- 🔧 Fixing stuff for other people (tech-related or not)
+- 🛠️ Generally tinkering with anything I can get my hands on
